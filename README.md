@@ -4,7 +4,7 @@ A Python tool for converting various document formats to Markdown using the Mark
 
 ## Description
 
-AnyDoc to Markdown is a command-line utility that allows users to convert different document formats into Markdown. It provides a simple interface where users can input file paths and receive converted Markdown files as output.
+AnyDoc to Markdown is a utility that allows users to convert different document formats into Markdown. It provides a simple interface where users can input file paths and receive converted Markdown files as output.
 
 ## Features
 
