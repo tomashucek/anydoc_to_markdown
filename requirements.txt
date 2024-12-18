@@ -1,0 +1,2 @@
+PyQt6>=6.4.0
+markitdown==0.0.1a3

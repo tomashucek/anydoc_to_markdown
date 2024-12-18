@@ -9,11 +9,15 @@ AnyDoc to Markdown is a utility that allows users to convert different document 
 ## Features
 
 - Converts various document formats to Markdown
-- Supports batch processing (multiple files in one session)
 - Preserves original file names with .md extension
 - UTF-8 encoding support
-- Error handling for failed conversions
 
 ## Installation
 
-1. Clone the repository: 
+1. Clone the repository
+2. Install the required dependencies pip install -r requirements.txt
+3. Run the script "python app.py"
+
+## Notes
+ - The tooll build upon the MarkItDown library: https://github.com/microsoft/markitdown
+ - supported formats *.pdf *.doc *.docx *.ppt *.pptx *.xls *.xlsx *.html *.htm *.txt *.json *.xml
